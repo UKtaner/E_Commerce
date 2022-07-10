@@ -1,4 +1,4 @@
-package e_commerce;
+package e_commerce.ui.pages;
 
 public class PageClass {
 
